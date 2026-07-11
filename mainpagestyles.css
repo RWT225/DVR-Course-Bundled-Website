@@ -7,7 +7,7 @@
 /* this has settings for all elements inside the <body> tag */
 body {
     background-color: #28282e;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Courier New', Courier, monospace;
     font-size: large;
 }
 
@@ -81,7 +81,7 @@ nav a {
     display: inline-block;
     font-size: 15px;
     text-transform: uppercase;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Courier New', Courier, monospace;
     color: lightskyblue
 }
 
